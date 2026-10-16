@@ -14,4 +14,4 @@ Welcome to the **future** of Open Source Software.
 
 ## About us
 
-HexaWorks is an independent organization focused on developing open-source software for Linux and beyond.
+HexaWorks is an independent organization focused on developing open-source software for Linux and beyond, founded by [samuelwahbe](https://github.com/samuelwahbe).
