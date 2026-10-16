@@ -11,3 +11,7 @@ Welcome to the **future** of Open Source Software.
 [Raven](https://github.com/HexaWorksOfficial/Raven) — A fast and simple file manager for GNOME desktop.
 
 [Arminal](https://github.com/HexaWorksOfficial/Arminal) — A fast and simple terminal for GNOME desktop.
+
+## About us
+
+HexaWorks is an independent organization focused on developing open-source software for Linux and beyond.
