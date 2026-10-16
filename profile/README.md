@@ -10,4 +10,4 @@ Welcome to the **future** of Open Source Software.
 
 [Raven](https://github.com/HexaWorksOfficial/Raven) — 
 
-[Aureon Linux](https://github.com/HexaWorksOfficial/Aureon) — A Debian-Based Distribution
+[Aureon Linux](https://github.com/HexaWorksOfficial/Aureon) — Beyond the Ordinary.
