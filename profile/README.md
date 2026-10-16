@@ -9,5 +9,3 @@ Welcome to the **future** of Open Source Software.
 [Nexo](https://github.com/HexaWorksOfficial/Nexo) — A versatile command-line toolkit for Linux.
 
 [Raven](https://github.com/HexaWorksOfficial/Raven) — 
-
-[Aureon Linux](https://github.com/HexaWorksOfficial/Aureon) — Beyond the Ordinary.
