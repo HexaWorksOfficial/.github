@@ -2,8 +2,8 @@
 
 Welcome to the **future** of Open Source Software.
 
-*"The future is already here... you just need to see it."*
+*“The future is already here... you just need to see it.”*
 
 ## Projects
 
-[Nexo]() — 
+[Nexo](https://github.com/HexaWorksOfficial/Nexo) — A versatile command-line toolkit for Linux.
