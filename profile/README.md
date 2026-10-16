@@ -7,3 +7,5 @@ Welcome to the **future** of Open Source Software.
 ## Projects
 
 [Nexo](https://github.com/HexaWorksOfficial/Nexo) — A versatile command-line toolkit for Linux.
+
+[Raven](https://github.com/HexaWorksOfficial/Raven) — 
