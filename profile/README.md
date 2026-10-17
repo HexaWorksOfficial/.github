@@ -12,7 +12,7 @@ Welcome to the **future** of Open Source Software.
 
 [Arminal](https://github.com/HexaWorksOfficial/Arminal) — A fast and simple terminal for GNOME desktop.
 
-[Libadwaita Web]() — Libadwaita Web is an CSS + Astro Theme for WebSites, based on Libadwaita and Adwaita.
+[Libadwaita Web](https://github.com/HexaWorksOfficial/Libadwaita-Web) — Libadwaita Web is an CSS + Astro Theme for WebSites, based on Libadwaita and Adwaita.
 
 ## About us
 
