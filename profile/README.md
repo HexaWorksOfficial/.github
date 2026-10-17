@@ -12,6 +12,8 @@ Welcome to the **future** of Open Source Software.
 
 [Arminal](https://github.com/HexaWorksOfficial/Arminal) — A fast and simple terminal for GNOME desktop.
 
+[Libadwaita Web]() — 
+
 ## About us
 
 HexaWorks is an independent organization focused on developing open-source software for Linux and beyond, founded by [samuelwahbe](https://github.com/samuelwahbe).
