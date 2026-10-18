@@ -8,7 +8,7 @@ Welcome to the **future** of Open Source Software.
 
 [Nexo](https://github.com/HexaWorksOfficial/Nexo) — A versatile command-line toolkit for Linux.
 
-[Raven](https://github.com/HexaWorksOfficial/Raven) — A fast and simple file manager for GNOME desktop.
+[Raven](https://github.com/HexaWorksOfficial/Raven) — A modern, fast, and efficient file manager for Linux, built with GTK 4 and Libadwaita.
 
 [Arminal](https://github.com/HexaWorksOfficial/Arminal) — A fast and simple terminal for GNOME desktop.
 
